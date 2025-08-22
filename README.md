@@ -3,8 +3,8 @@ Hexagon game created using SMFL lib in C++, that allows to play in PvP or PvE fo
 
 ## Tech stack 💻
 * **Language:** C++17 (or later)
-* **Framework:** [SFML 2.6+](https://www.sfml-dev.org/)
-* **Build:** CMake 3.20+
+* **Framework:** [SFML 2.6.2+](https://www.sfml-dev.org/)
+* **Build:** CMake 3.21+
   
 ## Before play ⏪
 * Include your font in Fonts folder before playing
